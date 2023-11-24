@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "pes_graycode",
+    "VERILOG_FILES": "dir::/home/shreya/pes_graycode_tapeout/verilog/rtl/pes_graycode.v",
+    "CLOCK_PORT": "clkin",
+    "CLOCK_NET": "clkin",
+    "GLB_RESIZER_TIMING_OPTIMIZATIONS": true,
+    "CLOCK_PERIOD": 65,
+    "DESIGN_IS_CORE": true
+}
+    
+
+
+
